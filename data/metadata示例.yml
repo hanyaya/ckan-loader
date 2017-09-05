@@ -1,0 +1,37 @@
+owner_org: data_stats_gov
+private: true
+author: "hanjianyu"
+author_email: hanjianyu@polomi.com
+notes: 国家统计局国际数据
+license_id: notspecified / odc-odbl / odc-by...  参照http://ckan-int.polomi.com/api/3/action/license_list
+maintainer: hanjianyu
+maintainer_email: hanjianyu@polomi.com
+version: 1.0beta
+url: "http://data.stats.gov.cn/easyquery.htm?"
+tags: 
+  - name: 
+      国家统计局
+  - name: 
+      国际数据
+  - name: 
+      还有更多的标签依此类推
+  - name:
+      不要标签的话删掉整个tags
+extras:
+  - key:
+      使用权限
+    value:
+      无
+  - key:
+      resource download url
+    value:
+      ""
+  - key:
+      数据使用案例
+    value:
+      无
+
+# NOTES:
+# 1.如果version是日期格式如2017-01-01,则要在两边加上引号，否则会自动被识别成时间对象
+# 2.
+# 3.
